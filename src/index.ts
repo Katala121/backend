@@ -8,7 +8,8 @@ import { Contact } from './models/Contact'
 
 initDb({
   "host": "127.0.0.1",
-  "user": "backend",
+  "user": "admin",
+  "password": "password",
   "database": "backend"
 })
 
